@@ -48,7 +48,7 @@ def isitaninteger(num):
 
 
 def main():
-    print("Hello learners!")
+    print("Hello learners")
     print("\n===== CALCULADORA =====")
     print("1. Hacer una operación")
     print("2. Sumar varios números")
